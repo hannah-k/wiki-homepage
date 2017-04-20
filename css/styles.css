@@ -1,6 +1,19 @@
-.logo {
-  width: 70%;
-}
+
 .sidebar {
   background-color: #e6e6e6;
+}
+.logo {
+  width: 80%;
+  padding: 5px;
+}
+li{
+  list-style-type: none;
+}
+
+.sidebar-header{
+  border-bottom: 1px solid grey;
+}
+
+.welcome-column {
+  text-align: center;
 }
